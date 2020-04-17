@@ -1,1 +1,20 @@
 created in remote repo for pull req
+
+Create repo form remote
+create repo in local
+git init
+git clone
+git fork
+git pull
+git push
+git config
+git add 
+git commit
+git diff
+git log
+git history
+git status
+git branch
+git checkout
+git switch
+
